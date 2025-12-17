@@ -1,10 +1,9 @@
 <div align="center">
 
 # Keren Stoller
-**Honors CS Student (GPA 87) | System & Full Stack Developer | 🏋️‍♀️ Personal Trainer**
+**Honors CS Student (GPA 87)  | System & Full Stack Developer | 🏋️‍♀️ Personal Trainer**
 
 🚀 **Building:** AI Hackathon Project for **Internet Safety for Girls**
-✅ **Released:** **[GymGlow](https://github.com/KerenStoller/GymGlow)** (FastAPI/React) & **[Revenge of the Chick](https://github.com/KerenStoller/Xonix)** (Unity)
 
 ---
 
@@ -15,4 +14,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kerenstoller) [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keren123stoller@gmail.com)
 
-<img src="
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kerenstoller&show_icons=true&locale=en&layout=compact&hide_border=true&height=120" height="120" alt="kerenstoller" />
+
+</div>
