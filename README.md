@@ -4,6 +4,7 @@
 
 ### Honors CS Student (GPA 87) & Full Stack Developer
 
+<div> 
 ---
 
 ## 👩‍💻 About Me
