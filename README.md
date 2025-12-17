@@ -4,8 +4,6 @@
 
 ### Honors CS Student (GPA 87) & Full Stack Developer
 
-<img src="https://streak-stats.demolab.com?user=kerenstoller&theme=tokyonight&hide_border=true" alt="kerenstoller" />
-
 </div>
 
 ---
@@ -15,9 +13,7 @@
 I am an Honors Computer Science student at **The Academic College of Tel Aviv-Yaffo** (Graduating 2027), combining a rigorous foundation in System Programming (**C/C++**) with modern Full Stack architecture.
 
 * 🚀 **Currently Building:** A Hackathon project focused on **Internet Safety for Girls**, utilizing AI to detect and prevent online harassment.
-* 📂 **Featured Projects:**
-  * **[GymGlow](https://github.com/KerenStoller/GymGlow):** An end-to-end fitness platform built with FastAPI and React.
-  * **[The Revenge of the Chick](https://github.com/KerenStoller/Xonix):** A Xonix-style strategy game developed in C# and Unity.
+* ✅ **Just Released:** **GymGlow**, an end-to-end fitness platform built with FastAPI and React.
 * ⚡ **Fun Fact:** When I'm not coding, I work as a **Personal Trainer**—I bring the same discipline to the gym as I do to my code.
 
 ---
