@@ -4,10 +4,6 @@
 
 ### Honors CS Student (GPA 87) & Full Stack Developer
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kerenstoller&theme=tokyonight&hide_border=true" alt="kerenstoller" />
-
-</div>
-
 ---
 
 ## 👩‍💻 About Me
