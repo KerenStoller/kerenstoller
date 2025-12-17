@@ -4,7 +4,7 @@
 
 ### Honors CS Student (GPA 87) & Full Stack Developer
 
-<img src="https://komarev.com/ghpvc/?username=kerenstoller&label=Profile%20views&color=0e75b6&style=flat" alt="kerenstoller" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kerenstoller&theme=tokyonight&hide_border=true" alt="kerenstoller" />
 
 </div>
 
