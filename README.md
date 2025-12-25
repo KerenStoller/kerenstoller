@@ -1,7 +1,7 @@
 <div align="center">
 
 # Keren Stoller
-**Honors CS Student (GPA 87)  | System & Full Stack Developer | 🏋️‍♀️ Personal Trainer**
+**Honors CS Student (GPA 88)  | System & Full Stack Developer | 🏋️‍♀️ Personal Trainer**
 
 🚀 **Building:** AI Hackathon Project for **Internet Safety for Girls**
 
